@@ -1,0 +1,20 @@
+
+.makxlogo{
+    user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+@media (max-width: 320px) {
+
+    .stok-takip, .yetkili ,.teknik-servis ,.üretim{
+        width: 15rem !important;
+        /* border: 1px solid red; */
+    }
+    .footer-yazi{
+        font-size: 0.9rem !important;
+    }
+}
